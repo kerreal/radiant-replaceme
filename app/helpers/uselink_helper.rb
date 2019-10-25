@@ -1,0 +1,2 @@
+module UselinkHelper
+end
